@@ -4,3 +4,4 @@
 # ignore the types of documents below
 .xlsx
 .pdf
+.doc
