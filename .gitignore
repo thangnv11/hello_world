@@ -1,0 +1,7 @@
+# ignore the folder below
+.idea/
+
+# ignore the types of documents below
+.xlsx
+.pdf
+
